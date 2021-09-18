@@ -8,8 +8,8 @@ content from reference<sup><a href="#ref1">[1]</a></sup>
 content from reference too[[1]](#References)
 - a
 - a
-- a
-- a
+- a[^2011 asd]
+- a[^1]
 - a
 content from reference too too[[1]](#2011 asd)
 - a
@@ -101,6 +101,9 @@ content from reference too too[[1]](#2011 asd)
 - a
 - a
 ##### 2011 asd
+
+[^2011 asd]: asdasd
+
 - a
 - a
 - a
@@ -145,3 +148,6 @@ content from reference too too[[1]](#2011 asd)
 - d
 - d
 - d
+
+[^1]: aaaaaaaaaaaaaa
+
