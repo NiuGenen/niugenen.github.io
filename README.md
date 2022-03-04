@@ -7,8 +7,8 @@
 
 ## List of Microarchitecture
 
-- [Intel](https://niugenen.github.io/list-of-microarchitecture/intel.html)
-- [AMD](https://niugenen.github.io/list-of-microarchitecture/amd.html)
+- [Intel](https://niugenen.github.io/the-interesting-tables/intel.html)
+- [AMD](https://niugenen.github.io/the-interesting-tables/amd.html)
 - Apple
 - ARM
 
