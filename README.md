@@ -24,15 +24,19 @@
 - [binary-translation-2019-2021](https://niugenen.github.io/reading/binary-translation-19-21)
 - [a-survey-of-binary-code-similarity](https://niugenen.github.io/reading/a-survey-of-binary-code-similarity/2021-a-survey-of-binary-code-similarity)
 
+# Others
+
+## old blogs in CSDN
+
+- [StringNewName](https://blog.csdn.net/stringNewName)
+
+## my gitee
+
+- [NiuGenen](https://gitee.com/NiuGenen)
+
 # Friend Link
 
 - [Martins Three](https://martins3.github.io/)
 - [xieby1](https://xieby1.github.io)
 
-#### Old Blogs in CSDN
 
-- [StringNewName](https://blog.csdn.net/stringNewName)
-
-#### My Gitee
-
-- [NiuGenen](https://gitee.com/NiuGenen)
