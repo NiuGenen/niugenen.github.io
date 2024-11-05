@@ -26,7 +26,8 @@
 
 ## publication
 
-- Xinyu Li, Yanzhi Lan, Gen Niu, Feng Xue, Fuxin Zhang. [BTBench: A Benchmark for Comprehensive Binary Translation Performance Evaluation]. ISPASS 2024
+- Xinyu Li, Guangyao Guo, Yanzhi Lan, Feng Xue, Chenji Han, Gen Niu, Fuxin Zhang. [Tiaozhuan: A General and Efficient Indirect Branch Optimization for Binary Translation](https://dl.acm.org/doi/10.1145/3703355). TACO 2024
+- Xinyu Li, Yanzhi Lan, Gen Niu, Feng Xue, Fuxin Zhang. [BTBench: A Benchmark for Comprehensive Binary Translation Performance Evaluation](https://ieeexplore.ieee.org/document/10590057). ISPASS 2024
 - Yanzhi Lan, Qi Hu, Gen Niu, Xinyu Li, Liangpu Wang, Fuxin Zhang. [LAST: An Efficient In-place Static Binary Translator for RISC Architectures](https://link.springer.com/chapter/10.1007/978-981-97-0801-7_14). ICA3PP 2023: 235-254
 - Gen Niu, Fuxin Zhang, Xinyu Li. [Eliminate the overhead of interrupt checking in full-system dynamic binary translator](https://dl.acm.org/doi/10.1145/3534056.3534939). SYSTOR 2022: 1-12
 - Kele Huang, Fuxin Zhang, Cun Li, Gen Niu, Junrong Wu, Tianyi Liu. [BTMMU: an efficient and versatile cross-ISA memory virtualization](https://doi.org/10.1145/3453933.3454015). VEE 2021: 71-83
